@@ -36,3 +36,4 @@ gem 'spring',        group: :development
 
 gem 'faker'
 
+gem 'devise'
